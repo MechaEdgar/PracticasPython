@@ -1,0 +1,2 @@
+import asigmultiple
+print(a)
